@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(66, 25, 66);
+  padding: 50px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.box {
+  width: 300px;
+  padding: 30px 0;
+  color: aliceblue;
+  background-color: red;
+  border-radius: 300px;
+  text-align: center;
+}
+
+.flex-container2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flexbox {
+  width: 300px;
+  padding: 30px 0;
+  color: aliceblue;
+  background-color: black;
+  border-radius: 20px;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.box2 {
+  border: 50px solid red;
+  border-radius: 30px;
+  margin: 0 auto;
+  width: 400px;
+  padding: 40px;
+  background-color: yellowgreen;
+  display: flex;
+  justify-content: space-between;
+}
